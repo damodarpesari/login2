@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97086913573",
+    "firebase_url": "https://loginwemailpassword.firebaseio.com",
+    "project_id": "loginwemailpassword",
+    "storage_bucket": "loginwemailpassword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97086913573:android:7e25f8a869a7f6189b53cc",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97086913573-jcfntko5h2b8dni5blb4tdscdfqp7k10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehADYdrYti8DT96I7nPrx4-hQXM0jAtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97086913573-jcfntko5h2b8dni5blb4tdscdfqp7k10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
